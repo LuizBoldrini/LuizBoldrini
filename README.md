@@ -1,5 +1,5 @@
 ## Hello, I'm Luiz Boldrini
-<div class="tenor-gif-embed" data-postid="9810614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/work-computer-gif-9810614">Work Computer GIF</a>from <a href="https://tenor.com/search/work-gifs">Work GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="9810614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/work-computer-gif-9810614"></a><a href="https://tenor.com/search/work-gifs"></a></div>
 
 ### Some things about me: 
 - 🔭 I have a degree in Computer Engineering!
