@@ -1,5 +1,4 @@
 ## Hello, I'm Luiz Boldrini
-<div class="tenor-gif-embed" data-postid="9810614" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/work-computer-gif-9810614"></a><a href="https://tenor.com/search/work-gifs"></a></div>
 
 ### Some things about me: 
 - 🔭 I have a degree in Computer Engineering!
@@ -22,6 +21,9 @@
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
   <img align="center" alt="SQL-Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Next-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+          
 </div>
 
 ##
